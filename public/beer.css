@@ -1,0 +1,30 @@
+.main{
+    margin: 20px;
+    text-align: right;
+}
+.hero{
+    text-align: center;
+  
+}
+.beer{
+    padding: 0px 0px 0px 0px;
+    margin:-1.5px 0px 0px 0px ;
+    
+}
+.Favorite{
+    margin:-1.5px 0px 0px 0px ;
+}
+.fff{
+     background:#ffa500;
+     color: white;
+}
+.search{
+     padding: 3px 80px 3px 80px;
+     margin:0px 0px 10px 0px ;
+     color: blue; 
+     
+  }
+  
+  
+  
+ 
